@@ -1,0 +1,37 @@
+.btn_background {
+    display: flex; 
+    justify-content: end;
+}
+
+.btn {
+    width: 80px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.main_title {
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+     margin: 30px;
+}
+
+.card_background {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-between;
+}
+
+.card {
+    margin: 20px;
+}
+
+.order_btn {
+    margin-top: 10px;
+}

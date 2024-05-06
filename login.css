@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+input {
+    margin: 5px;
+}
+
+.btn {
+    margin-top: 10px;
+    width: 100px;
+    height: 25px;
+}
